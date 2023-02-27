@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2023-02-27T09:21:11+05:45</lastmod>
+  </url><url>
+    <loc>/support/</loc>
+    <lastmod>2023-02-26T22:47:16+05:45</lastmod>
+  </url><url>
+    <loc>/links/</loc>
+    <lastmod>2023-02-26T22:32:15+05:45</lastmod>
+  </url><url>
+    <loc>/softwares/</loc>
+    <lastmod>2023-02-26T22:32:10+05:45</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2023-02-26T21:48:10+05:45</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-02-26T21:48:10+05:45</lastmod>
+  </url><url>
+    <loc>/posts/stoicism-the-way-of-living/</loc>
+    <lastmod>2023-02-26T21:48:10+05:45</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/manifest/index.json</loc>
+  </url><url>
+    <loc>/search/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
+</urlset>
