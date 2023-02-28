@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Razzat</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Razzat</description>
+    <title>tech on Razzat</title>
+    <link>/tags/tech/</link>
+    <description>Recent content in tech on Razzat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Feb 2023 12:23:32 +0545</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Feb 2023 12:23:32 +0545</lastBuildDate><atom:link href="/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How do I build a site like this one?</title>
       <link>/posts/site/</link>
@@ -20,15 +20,6 @@ A github account, see here.
 To host your webpage on githubpages.
 A dns provider.
 I&amp;rsquo;ve used cloudflare. But you can use which you find easy to setup.</description>
-    </item>
-    
-    <item>
-      <title>Stoicism</title>
-      <link>/posts/stoicism/</link>
-      <pubDate>Tue, 28 Feb 2023 12:19:07 +0545</pubDate>
-      
-      <guid>/posts/stoicism/</guid>
-      <description>What is Stoicism? </description>
     </item>
     
   </channel>

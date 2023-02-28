@@ -5,6 +5,25 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Razzat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Feb 2023 12:23:32 +0545</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tech</title>
+      <link>/tags/tech/</link>
+      <pubDate>Tue, 28 Feb 2023 12:23:32 +0545</pubDate>
+      
+      <guid>/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>philosophy</title>
+      <link>/tags/philosophy/</link>
+      <pubDate>Tue, 28 Feb 2023 12:19:07 +0545</pubDate>
+      
+      <guid>/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

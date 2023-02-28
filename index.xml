@@ -5,7 +5,50 @@
     <description>Recent content on Razzat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Feb 2023 21:48:10 +0545</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" /><icon>/img/icon.svg</icon>
+    <lastBuildDate>Tue, 28 Feb 2023 12:23:32 +0545</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" /><icon>/img/icon.svg</icon>
+    
+    
+    <item>
+      <title>How do I build a site like this one?</title>
+      <link>/posts/site/</link>
+      <pubDate>Tue, 28 Feb 2023 12:23:32 +0545</pubDate>
+      
+      <guid>/posts/site/</guid>
+      <description><![CDATA[<h3 id="what-you-need">What you need?</h3>
+<ul>
+<li>
+<p>A domain name, you can use any</p>
+</li>
+<li>
+<p>Install hugo, see <a href="https://gohugo.io">here.</a></p>
+<p>To create a static site using prebuilt templates/themes.</p>
+</li>
+<li>
+<p>A github account, see <a href="https://github.com">here.</a></p>
+<p>To host your webpage on githubpages.</p>
+</li>
+<li>
+<p>A dns provider.</p>
+<p>I&rsquo;ve used cloudflare. But you can use which you find easy to setup.</p>
+</li>
+</ul>
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Stoicism</title>
+      <link>/posts/stoicism/</link>
+      <pubDate>Tue, 28 Feb 2023 12:19:07 +0545</pubDate>
+      
+      <guid>/posts/stoicism/</guid>
+      <description><![CDATA[<h3 id="what-is-stoicism">What is Stoicism?</h3>
+]]></description>
+      
+    </item>
+    
     
     
     <item>
@@ -15,7 +58,11 @@
       
       <guid>/about/</guid>
       <description><![CDATA[<p><code>$whoami</code></p>
-<p>I am a highschool student, interested in computers. I promote the use of free and open source software. I have deep interest towards computer science. I like tinkering around in my linux desktop, from wasting my time to configuring the shit out of it, to learning many new things daily.</p>
+<p>Hi !!</p>
+<p>I am Rajat. A highschool student, interested in computers.</p>
+<p>I promote the use of free and open source software.</p>
+<p>I have deep interest towards computer science. I like tinkering around in my linux desktop, from wasting my time to configuring the shit out of it, to learning many new things daily.</p>
+<p>I am looking forward to continue my journey in cybersecurity.</p>
 ]]></description>
       
     </item>
@@ -29,7 +76,9 @@
       
       <guid>/support/</guid>
       <description><![CDATA[<h3 id="want-to-support-me">Want to support me?</h3>
-<p>Well, you can subscribe to my youtube channel. And help me with active projects in my github.</p>
+<p>Well, you can subscribe to my youtube channel and <a href="https://odysee.com/@asdfmeh:6">odysee</a> channel also you can give me a follow on github.
+You can send me an email if you have any questions about the softwares I use on the <a href="/softwares/">software</a> section.</p>
+<p>you can find config files to most of <a href="/softwares/#for-gnulinux">these</a> on my github page</p>
 ]]></description>
       
     </item>
@@ -55,34 +104,28 @@
     
     
     <item>
-      <title>Softwares</title>
+      <title>Softwares I Recommend</title>
       <link>/softwares/</link>
       <pubDate>Sun, 26 Feb 2023 22:32:10 +0545</pubDate>
       
       <guid>/softwares/</guid>
-      <description><![CDATA[<h3 id="for-this-website">for this website</h3>
+      <description><![CDATA[<h3 id="for-gnulinux">For GNU/linux:</h3>
 <ul>
-<li>
-<p>hugo - as a static site builder</p>
-<p>I would like to thank <em>Gabriel Musco</em> for providing and creating this wonderful theme</p>
-</li>
+<li>Neovim - text editor</li>
+<li>LibreWolf - privacy respecting fork of mozilla&rsquo;s firefox</li>
+<li>KeepassXc - password manager {has browser integration}</li>
+<li>mpd+ncmpcpp - mpd as music daemon &amp; ncmpcpp an mpd client</li>
+<li>dwm+slstatus - dwm as my window manager &amp; slstatus as status bar</li>
 </ul>
-]]></description>
-      
-    </item>
-    
-    
-    
-    <item>
-      <title>Stoic and Stoicism</title>
-      <link>/posts/stoicism-the-way-of-living/</link>
-      <pubDate>Sun, 26 Feb 2023 21:48:10 +0545</pubDate>
-      
-      <guid>/posts/stoicism-the-way-of-living/</guid>
-      <description><![CDATA[<p>Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.
-Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt duis officia eiusmod. Aliqua reprehenderit commodo ex non excepteur duis sunt velit enim. Voluptate laboris sint cupidatat ullamco ut ea consectetur et est culpa et culpa duis.
-Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt duis officia eiusmod. Aliqua reprehenderit commodo ex non excepteur duis sunt velit enim. Voluptate laboris sint cupidatat ullamco ut ea consectetur et est culpa et culpa duis.</p>
-<p>Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt duis officia eiusmod. Aliqua reprehenderit commodo ex non excepteur duis sunt velit enim. Voluptate laboris sint cupidatat ullamco ut ea consectetur et est culpa et culpa duis.</p>
+<hr>
+<h3 id="for-android">For android:</h3>
+<p><em>These are available in github</em></p>
+<ul>
+<li>Iceraven browser - fork of mozilla firefox with support for lots of addons</li>
+<li>Seal - music and video downloader(gui) which uses yt-dlp</li>
+<li>Blackhole - easy music downloader</li>
+<li>NeoBackups - for backups</li>
+</ul>
 ]]></description>
       
     </item>
