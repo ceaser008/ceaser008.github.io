@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
-    <title>Razzat</title>
+    <title>Razzat Dahal</title>
     <link>/</link>
-    <description>Recent content on Razzat</description>
+    <description>Recent content on Razzat Dahal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Feb 2023 12:19:07 +0545</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" /><icon>/logo.svg</icon>
@@ -22,21 +22,31 @@
     
     
     <item>
-      <title>About</title>
+      <title>About Me</title>
       <link>/about/</link>
       <pubDate>Mon, 27 Feb 2023 09:21:11 +0545</pubDate>
       
       <guid>/about/</guid>
-      <description><![CDATA[<p><code>$whoami</code></p>
-<p>Hi !!</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<p>I am Rajat. A highschool student, interested in computers.</p>
-<p>I promote the use of free and open source software.</p>
-<p>I have deep interest towards computer science. I like tinkering around in my linux desktop, from wasting my time to configuring the shit out of it, to learning many new things daily.</p>
+      <description><![CDATA[<pre><code>$whoami 
+</code></pre>
+<p>Hi!!</p>
+<p>I am Rajat. A highschool student, with deep interest towards computerscience.
+I  like promoting and contributing the use of free and open source software.</p>
+<h3 id="what-skills-have-i-acquired">What skills have I acquired?</h3>
+<p>These are some of the skills I have acquired and learning:</p>
+<ul>
+<li>C</li>
+<li>Python</li>
+<li>Linux</li>
+<li>Bash</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+</ul>
+<h3 id="where-do-i-plan-to-endup-at">Where do I plan to endup at?</h3>
 <p>I am looking forward to continue my journey in cybersecurity.</p>
+<h2 id="where-to-find-me">Where to find me?</h2>
+<p>Links to my socials are given below the site&rsquo;s logo.</p>
 ]]></description>
       
     </item>
@@ -104,6 +114,7 @@ You can send me an email if you have any questions about the softwares I use on 
 <li>Blackhole - easy music downloader</li>
 <li>NeoBackups - for backups</li>
 </ul>
+<p><em>You can find configs to some of these software on my github</em></p>
 ]]></description>
       
     </item>
