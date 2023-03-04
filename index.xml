@@ -5,37 +5,7 @@
     <description>Recent content on Razzat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Feb 2023 12:23:32 +0545</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" /><icon>/logo.svg</icon>
-    
-    
-    <item>
-      <title>How do I build a site like this one?</title>
-      <link>/posts/site/</link>
-      <pubDate>Tue, 28 Feb 2023 12:23:32 +0545</pubDate>
-      
-      <guid>/posts/site/</guid>
-      <description><![CDATA[<h3 id="what-you-need">What you need?</h3>
-<ul>
-<li>
-<p>A domain name, you can use any</p>
-</li>
-<li>
-<p>Install hugo, see <a href="https://gohugo.io">here.</a></p>
-<p>To create a static site using prebuilt templates/themes.</p>
-</li>
-<li>
-<p>A github account, see <a href="https://github.com">here.</a></p>
-<p>To host your webpage on githubpages.</p>
-</li>
-<li>
-<p>A dns provider.</p>
-<p>I&rsquo;ve used cloudflare. But you can use which you find easy to setup.</p>
-</li>
-</ul>
-]]></description>
-      
-    </item>
-    
+    <lastBuildDate>Tue, 28 Feb 2023 12:19:07 +0545</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" /><icon>/logo.svg</icon>
     
     
     <item>
@@ -59,6 +29,10 @@
       <guid>/about/</guid>
       <description><![CDATA[<p><code>$whoami</code></p>
 <p>Hi !!</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 <p>I am Rajat. A highschool student, interested in computers.</p>
 <p>I promote the use of free and open source software.</p>
 <p>I have deep interest towards computer science. I like tinkering around in my linux desktop, from wasting my time to configuring the shit out of it, to learning many new things daily.</p>
