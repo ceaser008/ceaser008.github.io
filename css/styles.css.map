@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/srv/http/portfolio",
+	"sourceRoot": "/home/ceaser/webpages/portfolio",
 	"sources": [
 		"themes/ficurinia/assets/scss/style.scss"
 	],
