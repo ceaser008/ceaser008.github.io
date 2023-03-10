@@ -62,7 +62,6 @@ I  like promoting and contributing the use of free and open source software.</p>
       <description><![CDATA[<h3 id="want-to-support-me">Want to support me?</h3>
 <p>Well, you can subscribe to my youtube channel and <a href="https://odysee.com/@asdfmeh:6">odysee</a> channel also you can give me a follow on github.
 You can send me an email if you have any questions about the softwares I use on the <a href="/softwares/">software</a> section.</p>
-<p>You can find config files to most of <a href="/softwares/#for-gnulinux">these</a> on my github page.</p>
 ]]></description>
       
     </item>
@@ -107,14 +106,17 @@ You can send me an email if you have any questions about the softwares I use on 
 </ul>
 <hr>
 <h3 id="for-android">For android:</h3>
-<p><em>These are available in github</em></p>
 <ul>
 <li>Iceraven browser - fork of mozilla firefox with support for lots of addons</li>
 <li>Seal - music and video downloader(gui) which uses yt-dlp</li>
 <li>Blackhole - easy music downloader</li>
 <li>NeoBackups - for backups</li>
 </ul>
+<<<<<<< HEAD
 <p><em>You can find configs to some of these software on my github</em></p>
+=======
+<p><em>You can find config files to most of these on my github page.</em></p>
+>>>>>>> 56485d5 (removed yt)
 ]]></description>
       
     </item>
